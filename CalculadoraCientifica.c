@@ -1,12 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-//Gabriel Jose do Amaral Schuina
-//RGA : 202121901017
-
-
-//**** prototipos das funcoes ******
-
 //determina a operacao e a chama  
 void Operacao(); 
 
